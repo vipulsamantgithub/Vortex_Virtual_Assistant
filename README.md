@@ -11,7 +11,7 @@ Vortex AI is a voice-controlled virtual assistant developed in Python that integ
 
 ### Installation
 1. Clone the Repository:
-      git clone https://github.com/yourusername/vortex-ai.git
+      git clone [https://github.com/yourusername/vortex-ai.git](https://github.com/vipulsamantgithub/Vortex_Virtual_Assistant)
 2. Navigate to the Project Directory:
       cd vortex-ai
 3. Install the Required Dependencies:
